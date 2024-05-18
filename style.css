@@ -39,7 +39,7 @@ body {
 
 .container {
   background: hsl(0, 0%, 100%);
-  width: 384px;
+  min-width: 374px;
   height: 522px;
   border: 1px solid black;
   border-radius: 1rem;
